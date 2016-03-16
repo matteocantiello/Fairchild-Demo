@@ -3,6 +3,7 @@ A_tornado_is_a_violently__.html
 figures/magnetic_diffusivity/magnetic_diffusivity.png
 There_is_some_disagreement_over__.html
 div_This_convergence_of_warm__.html
+latex.tex
 div_Tornadoes_have_been_observed__.html
 figures/figure_1/figure_1.png
 div_There_is_some_disagreement__1.html
